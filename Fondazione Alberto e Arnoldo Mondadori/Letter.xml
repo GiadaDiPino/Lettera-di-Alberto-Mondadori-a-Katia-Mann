@@ -1724,6 +1724,396 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?keyword_annotation_20231211160551299",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-11T15:05:51.299Z",
+	"dcterms:modified": "2023-12-11T15:05:51.299Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/GiadaDiPino",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Giada Di Pino"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "undefined?keyword_annotation_20231211160551299#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.2.2"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?keyword_annotation_20231211160551299#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": ""
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.2.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?keyword_annotation_20231211160605863",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-11T15:06:05.863Z",
+	"dcterms:modified": "2023-12-11T15:06:05.863Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/GiadaDiPino",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Giada Di Pino"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "undefined?keyword_annotation_20231211160605863#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.2.2"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?keyword_annotation_20231211160605863#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/seg[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": ""
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.2.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?keyword_annotation_20231211160619897",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-11T15:06:19.897Z",
+	"dcterms:modified": "2023-12-11T15:06:19.897Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/GiadaDiPino",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Giada Di Pino"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "undefined?keyword_annotation_20231211160619897#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.2.2"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?keyword_annotation_20231211160619897#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/seg[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": ""
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.2.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?keyword_annotation_20231211160659391",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-11T15:06:59.391Z",
+	"dcterms:modified": "2023-12-11T15:06:59.391Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/GiadaDiPino",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Giada Di Pino"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "undefined?keyword_annotation_20231211160659391#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.2.2"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?keyword_annotation_20231211160659391#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "edizione"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.2.2"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?keyword_annotation_20231211160725807",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-12-11T15:07:25.807Z",
+	"dcterms:modified": "2023-12-11T15:07:25.807Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/GiadaDiPino",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Giada Di Pino"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "undefined?keyword_annotation_20231211160725807#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.2.2"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?keyword_annotation_20231211160725807#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[2]/seg[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "edizione"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.2.2"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1739,8 +2129,8 @@
 					</dateline>
 					<salute>Gentile e cara signora,</salute>
 				</opener> 
-				<p>faccio seguito al mio telegramma di <date when="1960-09-28">ieri</date> per scusarmi ancora una volta del ritardo col ritardo col quale rispondo alla Sua lettera del <date when="1960-09-07">7 settembre</date>. Nel frattempo però dovrebbe esserLe giunta una lettera del mio assistente, <persName key="Lettieri, Mario" ref="http://viaf.org/viaf/14158185828220062892/">Mario Lettieri</persName>, del <date when="1960-09-17">17 settembre</date>: ad essa manca la lettera del <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">Club degli Editori</orgName> che qui Le allego, con nuove scuse.</p>
-				<p>Il <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">club degli Editori</orgName> non potrà fare questa edizione, anche per l’esiguità del numero delle pagine. Se Lei è d’accordo sarei ben lieto di farne invece io una edizione, nella collezione delle <title key="Biblioteca delle Silerchie" ref="http://viaf.org/viaf/179035779/">SILERCHIE</title>, per il <orgName key="Casa editrice Il Saggiatore." ref="http://viaf.org/viaf/167857210/">Saggiatore</orgName>, dove già comparve, con tanto mio piacere, la <title key="Mann, Thomas | Lettera sul matrimonio" level="m">Lettera sul matrimonio</title>. Le sarò grato se vorrà rispondere a questa mia proposta.</p>
+				<p>faccio seguito al mio telegramma di <date when="1960-09-28">ieri</date> per scusarmi ancora una volta del ritardo col ritardo col quale rispondo alla Sua lettera<seg type="keyword"><term/></seg> del <date when="1960-09-07">7 settembre</date>. Nel frattempo però dovrebbe esserLe giunta una lettera<seg type="keyword"><term/></seg> del mio assistente, <persName key="Lettieri, Mario" ref="http://viaf.org/viaf/14158185828220062892/">Mario Lettieri</persName>, del <date when="1960-09-17">17 settembre</date>: ad essa manca la lettera<seg type="keyword"><term/></seg> del <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">Club degli Editori</orgName> che qui Le allego, con nuove scuse.</p>
+				<p>Il <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">club degli Editori</orgName> non potrà fare questa edizione<seg type="keyword"><term>edizione</term></seg>, anche per l’esiguità del numero delle pagine. Se Lei è d’accordo sarei ben lieto di farne invece io una edizione<seg type="keyword"><term>edizione</term></seg>, nella collezione delle <title key="Biblioteca delle Silerchie" ref="http://viaf.org/viaf/179035779/">SILERCHIE</title>, per il <orgName key="Casa editrice Il Saggiatore." ref="http://viaf.org/viaf/167857210/">Saggiatore</orgName>, dove già comparve, con tanto mio piacere, la <title key="Mann, Thomas | Lettera sul matrimonio" level="m">Lettera sul matrimonio</title>. Le sarò grato se vorrà rispondere a questa mia proposta.</p>
 				<p>Anch’io mi sono assai rammaricato di non averLa incontrata a <placeName key="Forte dei Marmi" ref="http://www.wikidata.org/entity/Q217133">Forte dei Marmi</placeName>: quest’anno però ho passato le mie vacanze in <placeName key="Sardegna" ref="http://viaf.org/viaf/9146159477906527990004/">Sardegna</placeName> e non sono andato a <placeName key="Camaiore" ref="http://www.wikidata.org/entity/Q216853">Camaiore</placeName> se non per dei rari fulminei week-ends.</p>
 				<closer>
 					<salute>Creda sempre all’amicizia devota e fedele del Suo</salute>
