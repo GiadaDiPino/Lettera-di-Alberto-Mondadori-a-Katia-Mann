@@ -1791,7 +1791,7 @@
 	"oa:hasBody": {
 		"@type": "fabio:UncontrolledVocabulary",
 		"dc:format": "text/xml",
-		"rdf:value": ""
+		"rdf:value": "lettera"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -2208,7 +2208,7 @@
 					</dateline>
 					<salute>Gentile e cara signora,</salute>
 				</opener> 
-				<p>faccio seguito al mio telegramma di <date when="1960-09-28">ieri</date> per scusarmi<note type="annotation">motivo di scuse</note> ancora una volta del ritardo col ritardo col quale rispondo alla Sua lettera<seg type="keyword"><term><term><term/></term></term></seg> del <date when="1960-09-07">7 settembre</date>. Nel frattempo però dovrebbe esserLe giunta una lettera<seg type="keyword"><term><term><term/></term></term></seg> del mio assistente, <persName key="Lettieri, Mario" ref="http://viaf.org/viaf/14158185828220062892/">Mario Lettieri</persName>, del <date when="1960-09-17">17 settembre</date>: ad essa manca la lettera<seg type="keyword"><term><term><term/></term></term></seg> del <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">Club degli Editori</orgName> che qui Le allego, con nuove scuse.</p>
+				<p>faccio seguito al mio telegramma di <date when="1960-09-28">ieri</date> per scusarmi<note type="annotation">motivo di scuse</note> ancora una volta del ritardo col ritardo col quale rispondo alla Sua <seg><term>lettera</term></seg> del <date when="1960-09-07">7 settembre</date>. Nel frattempo però dovrebbe esserLe giunta una lettera<seg type="keyword"><term><term><term><term><term/></term></term></term></term></seg> del mio assistente, <persName key="Lettieri, Mario" ref="http://viaf.org/viaf/14158185828220062892/">Mario Lettieri</persName>, del <date when="1960-09-17">17 settembre</date>: ad essa manca la lettera<seg type="keyword"><term><term><term><term><term/></term></term></term></term></seg> del <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">Club degli Editori</orgName> che qui Le allego, con nuove scuse.</p>
 				<p>Il <orgName key="Club degli Editori" ref="http://www.wikidata.org/entity/Q3681665">club degli Editori</orgName> non potrà fare questa edizione<seg type="keyword"><term>edizione</term></seg>, anche per l’esiguità del numero delle pagine. Se Lei è d’accordo sarei ben lieto di farne invece io una edizione<seg type="keyword"><term>edizione</term></seg>, nella collezione delle <title key="Biblioteca delle Silerchie" ref="http://viaf.org/viaf/179035779/">SILERCHIE</title>, per il <orgName key="Casa editrice Il Saggiatore." ref="http://viaf.org/viaf/167857210/">Saggiatore</orgName>, dove già comparve, con tanto mio piacere, la <title key="Mann, Thomas | Lettera sul matrimonio" level="m">Lettera sul matrimonio</title>. Le sarò grato se vorrà rispondere a questa mia proposta.</p>
 				<p>Anch’io mi sono assai rammaricato di non averLa incontrata a <placeName key="Forte dei Marmi" ref="http://www.wikidata.org/entity/Q217133">Forte dei Marmi</placeName>: quest’anno però ho passato le mie vacanze in <placeName key="Sardegna" ref="http://viaf.org/viaf/9146159477906527990004/">Sardegna</placeName> e non sono andato a <placeName key="Camaiore" ref="http://www.wikidata.org/entity/Q216853">Camaiore</placeName> se non per dei rari fulminei week-ends.</p>
 				<closer>
