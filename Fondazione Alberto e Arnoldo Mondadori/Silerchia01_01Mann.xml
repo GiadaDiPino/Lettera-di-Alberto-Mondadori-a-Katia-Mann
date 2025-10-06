@@ -44,10 +44,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20190814224630962",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20190814224630962",
 	"type": "oa:Annotation",
 	"dcterms:created": "2019-08-14T20:46:30.962Z",
-	"dcterms:modified": "2019-08-14T20:46:30.962Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/ilovan",
 		"@type": [
@@ -59,9 +58,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20190814224630962#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20190814224630962#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -69,17 +69,17 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20190814224630962#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20190814224630962#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/salute/persName"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/39569752",
+		"@id": "http://www.wikidata.org/entity/Q3608456",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -87,7 +87,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -124,10 +124,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203123754810",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203123754810",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:37:54.810Z",
-	"dcterms:modified": "2024-12-03T11:37:54.810Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -138,9 +137,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203123754810#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203123754810#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -148,10 +148,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203123754810#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203123754810#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName"
 		}
@@ -166,7 +166,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	},
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
@@ -203,10 +203,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203123814839",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203123814839",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:38:14.839Z",
-	"dcterms:modified": "2024-12-03T11:38:14.839Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -217,9 +216,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203123814839#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203123814839#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -227,10 +227,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203123814839#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203123814839#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/head/title/persName[2]"
 		}
@@ -245,7 +245,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -281,10 +281,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20241203123843334",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?organization_annotation_20241203123843334",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:38:43.334Z",
-	"dcterms:modified": "2024-12-03T11:38:43.334Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -295,9 +294,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20241203123843334#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?organization_annotation_20241203123843334#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -305,10 +305,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20241203123843334#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?organization_annotation_20241203123843334#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/note/p[7]/orgName"
 		}
@@ -323,7 +323,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -359,10 +359,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20241203123935905",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?date_annotation_20241203123935905",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:39:35.905Z",
-	"dcterms:modified": "2024-12-03T11:39:35.905Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -373,9 +372,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20241203123935905#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?date_annotation_20241203123935905#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -383,10 +383,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20241203123935905#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?date_annotation_20241203123935905#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/opener/dateline/date"
 		}
@@ -400,7 +400,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -436,10 +436,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20241203124242403",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124242403",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:42:42.403Z",
-	"dcterms:modified": "2024-12-03T11:42:42.403Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -450,9 +449,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20241203124242403#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124242403#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -460,10 +460,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20241203124242403#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124242403#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName"
 		}
@@ -478,7 +478,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -514,10 +514,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203124320091",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203124320091",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:43:20.091Z",
-	"dcterms:modified": "2024-12-03T11:43:20.091Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -528,9 +527,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203124320091#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203124320091#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -538,10 +538,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203124320091#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203124320091#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName"
 		}
@@ -556,7 +556,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -592,10 +592,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20241203124336066",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124336066",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:43:36.066Z",
-	"dcterms:modified": "2024-12-03T11:43:36.066Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -606,9 +605,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20241203124336066#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124336066#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -616,10 +616,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20241203124336066#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124336066#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[2]"
 		}
@@ -634,7 +634,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -670,10 +670,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20241203124354119",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124354119",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:43:54.119Z",
-	"dcterms:modified": "2024-12-03T11:43:54.119Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -684,9 +683,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20241203124354119#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124354119#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -694,10 +694,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20241203124354119#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?place_annotation_20241203124354119#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/placeName[3]"
 		}
@@ -712,7 +712,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -748,10 +748,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203124420544",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203124420544",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T11:44:20.544Z",
-	"dcterms:modified": "2024-12-03T11:44:20.544Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -762,9 +761,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203124420544#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203124420544#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -772,10 +772,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203124420544#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203124420544#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p/persName[2]"
 		}
@@ -790,7 +790,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -826,10 +826,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203191411617",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203191411617",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T18:14:11.617Z",
-	"dcterms:modified": "2024-12-03T18:14:11.617Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -840,9 +839,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203191411617#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203191411617#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -850,10 +850,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203191411617#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203191411617#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName"
 		}
@@ -868,7 +868,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -904,10 +904,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?organization_annotation_20241203191444363",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?organization_annotation_20241203191444363",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T18:14:44.363Z",
-	"dcterms:modified": "2024-12-03T18:14:44.363Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -918,9 +917,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?organization_annotation_20241203191444363#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?organization_annotation_20241203191444363#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -928,10 +928,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?organization_annotation_20241203191444363#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?organization_annotation_20241203191444363#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/orgName"
 		}
@@ -946,7 +946,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -982,10 +982,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203232846098",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232846098",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:28:46.098Z",
-	"dcterms:modified": "2024-12-03T22:28:46.098Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -996,9 +995,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203232846098#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232846098#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1006,10 +1006,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203232846098#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232846098#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[2]"
 		}
@@ -1024,7 +1024,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1060,10 +1060,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203232929962",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232929962",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:29:29.962Z",
-	"dcterms:modified": "2024-12-03T22:29:29.962Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1074,9 +1073,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203232929962#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232929962#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1084,10 +1084,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203232929962#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232929962#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[3]"
 		}
@@ -1102,7 +1102,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1138,10 +1138,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203232958319",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232958319",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:29:58.319Z",
-	"dcterms:modified": "2024-12-03T22:29:58.319Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1152,9 +1151,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203232958319#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232958319#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1162,10 +1162,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203232958319#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203232958319#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[4]"
 		}
@@ -1180,7 +1180,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1216,10 +1216,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233035903",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233035903",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:30:35.903Z",
-	"dcterms:modified": "2024-12-03T22:30:35.903Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1230,9 +1229,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233035903#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233035903#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1240,10 +1240,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233035903#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233035903#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[5]"
 		}
@@ -1258,7 +1258,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1294,10 +1294,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233102807",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233102807",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:31:02.807Z",
-	"dcterms:modified": "2024-12-03T22:31:02.807Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1308,9 +1307,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233102807#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233102807#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1318,10 +1318,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233102807#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233102807#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[6]"
 		}
@@ -1336,7 +1336,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1372,10 +1372,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20241203233450725",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?note_annotation_20241203233450725",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:34:50.725Z",
-	"dcterms:modified": "2024-12-03T22:34:50.725Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1386,9 +1385,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20241203233450725#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?note_annotation_20241203233450725#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1396,10 +1396,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20241203233450725#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?note_annotation_20241203233450725#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[6]/note"
 		}
@@ -1414,7 +1414,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1450,10 +1450,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233546091",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233546091",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:35:46.091Z",
-	"dcterms:modified": "2024-12-03T22:35:46.091Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1464,9 +1463,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233546091#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233546091#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1474,10 +1474,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233546091#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233546091#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[7]"
 		}
@@ -1492,7 +1492,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1528,10 +1528,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233626060",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233626060",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:36:26.060Z",
-	"dcterms:modified": "2024-12-03T22:36:26.060Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1542,9 +1541,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233626060#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233626060#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1552,10 +1552,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233626060#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233626060#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[8]"
 		}
@@ -1570,7 +1570,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1606,10 +1606,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233700451",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233700451",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:37:00.451Z",
-	"dcterms:modified": "2024-12-03T22:37:00.451Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1620,9 +1619,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233700451#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233700451#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1630,10 +1630,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233700451#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233700451#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[9]"
 		}
@@ -1648,7 +1648,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1684,10 +1684,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?note_annotation_20241203233719624",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?note_annotation_20241203233719624",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:37:19.624Z",
-	"dcterms:modified": "2024-12-03T22:37:19.624Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1698,9 +1697,10 @@
 	},
 	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "undefined?note_annotation_20241203233719624#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?note_annotation_20241203233719624#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1708,10 +1708,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?note_annotation_20241203233719624#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?note_annotation_20241203233719624#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[8]/note"
 		}
@@ -1726,7 +1726,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1762,10 +1762,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233809473",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233809473",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:38:09.473Z",
-	"dcterms:modified": "2024-12-03T22:38:09.473Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1776,9 +1775,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233809473#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233809473#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1786,10 +1786,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233809473#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233809473#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[10]"
 		}
@@ -1804,7 +1804,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1840,10 +1840,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203233859524",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233859524",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:38:59.524Z",
-	"dcterms:modified": "2024-12-03T22:38:59.524Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1854,9 +1853,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203233859524#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233859524#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1864,10 +1864,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203233859524#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203233859524#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[11]"
 		}
@@ -1882,7 +1882,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1918,10 +1918,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234119515",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234119515",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:41:19.515Z",
-	"dcterms:modified": "2024-12-03T22:41:19.515Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -1932,9 +1931,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234119515#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234119515#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -1942,10 +1942,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234119515#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234119515#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[12]"
 		}
@@ -1960,7 +1960,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -1996,10 +1996,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234215399",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234215399",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:42:15.399Z",
-	"dcterms:modified": "2024-12-03T22:42:15.399Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2010,9 +2009,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234215399#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234215399#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2020,10 +2020,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234215399#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234215399#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[13]"
 		}
@@ -2038,7 +2038,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2074,10 +2074,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234248437",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234248437",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:42:48.437Z",
-	"dcterms:modified": "2024-12-03T22:42:48.437Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2088,9 +2087,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234248437#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234248437#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2098,10 +2098,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234248437#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234248437#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[14]"
 		}
@@ -2116,7 +2116,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2152,10 +2152,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234303677",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234303677",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:43:03.677Z",
-	"dcterms:modified": "2024-12-03T22:43:03.677Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2166,9 +2165,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234303677#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234303677#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2176,10 +2176,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234303677#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234303677#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[15]"
 		}
@@ -2194,7 +2194,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2230,10 +2230,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234337395",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234337395",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:43:37.395Z",
-	"dcterms:modified": "2024-12-03T22:43:37.395Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2244,9 +2243,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234337395#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234337395#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2254,10 +2254,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234337395#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234337395#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[3]/persName[16]"
 		}
@@ -2272,7 +2272,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2308,10 +2308,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234811465",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234811465",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:48:11.465Z",
-	"dcterms:modified": "2024-12-03T22:48:11.465Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2322,9 +2321,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234811465#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234811465#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2332,10 +2332,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234811465#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234811465#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[8]/persName"
 		}
@@ -2350,7 +2350,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2386,10 +2386,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?date_annotation_20241203234836901",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?date_annotation_20241203234836901",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:48:36.901Z",
-	"dcterms:modified": "2024-12-03T22:48:36.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2400,9 +2399,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?date_annotation_20241203234836901#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?date_annotation_20241203234836901#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2410,10 +2410,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?date_annotation_20241203234836901#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?date_annotation_20241203234836901#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/p[9]/date"
 		}
@@ -2427,7 +2427,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2463,10 +2463,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?person_annotation_20241203234854179",
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234854179",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-12-03T22:48:54.179Z",
-	"dcterms:modified": "2024-12-03T22:48:54.179Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/GiadaDiPino",
 		"@type": [
@@ -2477,9 +2476,10 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?person_annotation_20241203234854179#Target",
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234854179#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
 			"@type": "dctypes:Text",
 			"dc:format": "text/xml"
 		},
@@ -2487,10 +2487,10 @@
 			"@id": "https://leaf-writer.leaf-vre.org",
 			"@type": "as:Application",
 			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.6.0"
+			"schema:softwareVersion": "3.9.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?person_annotation_20241203234854179#Selector",
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?person_annotation_20241203234854179#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/closer/signed/persName"
 		}
@@ -2505,7 +2505,7 @@
 		"@type": "as:Application",
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.6.0"
+		"schema:softwareVersion": "3.9.0"
 	}
 }]]>
         </rdf:Description>
@@ -2521,7 +2521,7 @@
 					<dateline><date when="1957-06-09">9 giugno 1957</date></dateline>
 					<salute>Caro <persName key="Alberto Mondadori" ref="http://www.wikidata.org/entity/Q3608456">Alberto</persName>,</salute>
 				</opener>
-				<p>Ho saputo, non da Lei e con grandissimo rammarico, che non viene a <placeName key="Rome" ref="http://www.wikidata.org/entity/Q220">Roma</placeName> per <persName key="Tommaso d'Aquino" ref="http://www.wikidata.org/entity/Q25209696">Tommaso il Grande</persName>. Spero almeno che non diserterà a <placeName key="Milan" ref="http://www.wikidata.org/entity/Q490">Milano</placeName>, dove mi pare la Sala della Civica a <placeName key="Palazzo Sormani" ref="http://www.wikidata.org/entity/Q3890917">Palazzo Sormani</placeName> sarà un ottimo ambiente e dove anche, per l’autunno, faremo una piccola esposizione di libri e autografi di <persName key="Thomas Mann" ref="http://www.wikidata.org/entity/Q37030">T. Mann</persName>.</p> 
+				<p>Ho saputo, non da <note type="citation">Lei</note> e con grandissimo rammarico, che non viene a <placeName key="Rome" ref="http://www.wikidata.org/entity/Q220">Roma</placeName> per <persName key="Tommaso d'Aquino" ref="http://www.wikidata.org/entity/Q25209696">Tommaso il Grande</persName>. Spero almeno che non diserterà a <placeName key="Milan" ref="http://www.wikidata.org/entity/Q490">Milano</placeName>, dove mi pare la Sala della Civica a <placeName key="Palazzo Sormani" ref="http://www.wikidata.org/entity/Q3890917">Palazzo Sormani</placeName> sarà un ottimo ambiente e dove anche, per l’autunno, faremo una piccola esposizione di libri e autografi di <persName key="Thomas Mann" ref="http://www.wikidata.org/entity/Q37030">T. Mann</persName>.</p> 
 				<p>Le scrivo in partenza per pregarla di quanto segue:</p> 
 				<p>Naturalmente io non ho da un anno alcun ordine né alcuna comunicazione nei riguardi di futuri volumi di <persName key="Thomas Mann" ref="http://www.wikidata.org/entity/Q37030">Mann</persName>. Ma poiché, comunque sia il programma della <orgName key="Mondadori" ref="http://www.wikidata.org/entity/Q119942453">Mondadori</orgName>, bisogna pensare a preparare il materiale degli scritti minori vari, e poiché non vorrei essere colta dalla vostra premura e aver dei rimproveri, propongo che subito ora, cioè in modo da dare modo alla traduttrice di lavorare nei mesi estivi, si assegni la versione di un buon gruppo di scritti minori che risalgono (in parte) a tempio lontani e che ora quasi tutti sono stati ripubblicati, sia <title cert="medium" level="m" xml:lang="deutsch">Altes un Neues</title> che <title cert="medium" level="m" key="Thomas Mann" rend="italic" xml:lang="deutsch">Nachlese</title>. Si tratta anzitutto (perché è fuor di dubbio che una simile collana di piccoli saggi su contemporanei il cui nome ha una risonanza che da noi verrà accolta) degli scritti di augurio, omaggio in vita o saluto in morte – per <persName key="Frank Wedekind" ref="http://www.wikidata.org/entity/Q57619">WEDEKIND</persName> <persName key="Oswald Spengler" ref="http://www.wikidata.org/entity/Q57112">SPENGLER</persName> <persName key="Max Liebermann" ref="http://www.wikidata.org/entity/Q158062">LIEBERMANN</persName> <persName key="Hermann Hesse" ref="http://www.wikidata.org/entity/Q25973">HESSE</persName> <persName key="August Strindberg" ref="http://dbpedia.org/resource/August_Strindberg"><note>Strindberg</note>STRNDBERG</persName> <persName key="Hugo von Hofmannsthal" ref="http://www.wikidata.org/entity/Q51513">HOFFMANNSTHAL</persName> <persName key="Schön, Donald A." ref="http://vocab.getty.edu/ulan/500211249"><note>Donald Alan Shön</note>SHAN</persName> <persName key="Stefan Zweig" ref="http://www.wikidata.org/entity/Q78491">S.ZWEIG</persName> <persName key="Friedrich Huch" ref="http://www.wikidata.org/entity/Q95338">F.HUCH</persName> <persName key="Max Reinhardt" ref="http://www.wikidata.org/entity/Q6795164">REINHARDT</persName> <persName key="Bruno Frank" ref="http://www.wikidata.org/entity/Q62133">BRUNO FRANK</persName> <persName key="Pablo Casals" ref="http://www.wikidata.org/entity/Q125723537">PABLO CASALS</persName> <persName key="Alfred Neumann (writer)" ref="http://dbpedia.org/resource/Alfred_Neumann_(writer)">ALFRED NEUMANN</persName> <persName key="Ernst Penzoldt" ref="http://www.wikidata.org/entity/Q1309725">ERNST PENZOLDT</persName> <persName key="André Gide" ref="http://www.wikidata.org/entity/Q47484">GIDE</persName> ecc. ecc.</p>
 				<p>Andrebbero tradotte inoltre senz’altro le (molte) pagine di diario 1933/35 il cui testo io non ho, ma è nell’edizione “orientale” che è stata da voi acquistata.</p>
