@@ -2509,6 +2509,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?keyword_annotation_20251006174832780",
+	"type": "oa:Annotation",
+	"dcterms:created": "2025-10-06T15:48:32.780Z",
+	"dcterms:modified": "2025-10-06T15:48:32.780Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/GiadaDiPino",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Giada Di Pino"
+	},
+	"oa:motivatedBy": "oa:tagging",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?keyword_annotation_20251006174832780#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.9.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/GiadaDiPino/Lettera-di-Alberto-Mondadori-a-Katia-Mann/main/Fondazione%20Alberto%20e%20Arnoldo%20Mondadori/Silerchia01_01Mann.xml?keyword_annotation_20251006174832780#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p/seg"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:UncontrolledVocabulary",
+		"dc:format": "text/xml",
+		"rdf:value": "matrimonio"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.9.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -2521,7 +2600,7 @@
 					<dateline><date when="1957-06-09">9 giugno 1957</date></dateline>
 					<salute>Caro <persName key="Alberto Mondadori" ref="http://www.wikidata.org/entity/Q3608456">Alberto</persName>,</salute>
 				</opener>
-				<p>Ho saputo, non da Lei e con grandissimo rammarico, che non viene a <placeName key="Rome" ref="http://www.wikidata.org/entity/Q220">Roma</placeName> per <persName key="Tommaso d'Aquino" ref="http://www.wikidata.org/entity/Q25209696">Tommaso il Grande</persName>. Spero almeno che non diserterà a <placeName key="Milan" ref="http://www.wikidata.org/entity/Q490">Milano</placeName>, dove mi pare la Sala della Civica a <placeName key="Palazzo Sormani" ref="http://www.wikidata.org/entity/Q3890917">Palazzo Sormani</placeName> sarà un ottimo ambiente e dove anche, per l’autunno, faremo una piccola esposizione di libri e autografi di <persName key="Thomas Mann" ref="http://www.wikidata.org/entity/Q37030">T. Mann</persName>.</p> 
+				<p>Ho saputo, non da Lei<seg type="keyword"><term>matrimonio</term></seg> e con grandissimo rammarico, che non viene a <placeName key="Rome" ref="http://www.wikidata.org/entity/Q220">Roma</placeName> per <persName key="Tommaso d'Aquino" ref="http://www.wikidata.org/entity/Q25209696">Tommaso il Grande</persName>. Spero almeno che non diserterà a <placeName key="Milan" ref="http://www.wikidata.org/entity/Q490">Milano</placeName>, dove mi pare la Sala della Civica a <placeName key="Palazzo Sormani" ref="http://www.wikidata.org/entity/Q3890917">Palazzo Sormani</placeName> sarà un ottimo ambiente e dove anche, per l’autunno, faremo una piccola esposizione di libri e autografi di <persName key="Thomas Mann" ref="http://www.wikidata.org/entity/Q37030">T. Mann</persName>.</p> 
 				<p>Le scrivo in partenza per pregarla di quanto segue:</p> 
 				<p>Naturalmente io non ho da un anno alcun ordine né alcuna comunicazione nei riguardi di futuri volumi di <persName key="Thomas Mann" ref="http://www.wikidata.org/entity/Q37030">Mann</persName>. Ma poiché, comunque sia il programma della <orgName key="Mondadori" ref="http://www.wikidata.org/entity/Q119942453">Mondadori</orgName>, bisogna pensare a preparare il materiale degli scritti minori vari, e poiché non vorrei essere colta dalla vostra premura e aver dei rimproveri, propongo che subito ora, cioè in modo da dare modo alla traduttrice di lavorare nei mesi estivi, si assegni la versione di un buon gruppo di scritti minori che risalgono (in parte) a tempio lontani e che ora quasi tutti sono stati ripubblicati, sia <title cert="medium" level="m" xml:lang="deutsch">Altes un Neues</title> che <title cert="medium" level="m" key="Thomas Mann" rend="italic" xml:lang="deutsch">Nachlese</title>. Si tratta anzitutto (perché è fuor di dubbio che una simile collana di piccoli saggi su contemporanei il cui nome ha una risonanza che da noi verrà accolta) degli scritti di augurio, omaggio in vita o saluto in morte – per <persName key="Frank Wedekind" ref="http://www.wikidata.org/entity/Q57619">WEDEKIND</persName> <persName key="Oswald Spengler" ref="http://www.wikidata.org/entity/Q57112">SPENGLER</persName> <persName key="Max Liebermann" ref="http://www.wikidata.org/entity/Q158062">LIEBERMANN</persName> <persName key="Hermann Hesse" ref="http://www.wikidata.org/entity/Q25973">HESSE</persName> <persName key="August Strindberg" ref="http://dbpedia.org/resource/August_Strindberg"><note>Strindberg</note>STRNDBERG</persName> <persName key="Hugo von Hofmannsthal" ref="http://www.wikidata.org/entity/Q51513">HOFFMANNSTHAL</persName> <persName key="Schön, Donald A." ref="http://vocab.getty.edu/ulan/500211249"><note>Donald Alan Shön</note>SHAN</persName> <persName key="Stefan Zweig" ref="http://www.wikidata.org/entity/Q78491">S.ZWEIG</persName> <persName key="Friedrich Huch" ref="http://www.wikidata.org/entity/Q95338">F.HUCH</persName> <persName key="Max Reinhardt" ref="http://www.wikidata.org/entity/Q6795164">REINHARDT</persName> <persName key="Bruno Frank" ref="http://www.wikidata.org/entity/Q62133">BRUNO FRANK</persName> <persName key="Pablo Casals" ref="http://www.wikidata.org/entity/Q125723537">PABLO CASALS</persName> <persName key="Alfred Neumann (writer)" ref="http://dbpedia.org/resource/Alfred_Neumann_(writer)">ALFRED NEUMANN</persName> <persName key="Ernst Penzoldt" ref="http://www.wikidata.org/entity/Q1309725">ERNST PENZOLDT</persName> <persName key="André Gide" ref="http://www.wikidata.org/entity/Q47484">GIDE</persName> ecc. ecc.</p>
 				<p>Andrebbero tradotte inoltre senz’altro le (molte) pagine di diario 1933/35 il cui testo io non ho, ma è nell’edizione “orientale” che è stata da voi acquistata.</p>
